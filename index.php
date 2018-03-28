@@ -8,3 +8,4 @@
 
 echo "hello world";
 echo "git demo";
+echo "pull demo";
