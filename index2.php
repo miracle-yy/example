@@ -3,3 +3,6 @@
 	echo "update";
 	echo "reset";
 	echo "commit";
+	
+	
+	echo "workshop";
