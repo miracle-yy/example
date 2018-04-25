@@ -11,3 +11,4 @@ echo "git demo2";
 echo "pull demo";
 echo "add content";
 
+echo "update";
