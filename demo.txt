@@ -7,3 +7,5 @@ miracle
 
 hello
 hello
+
+branch merge no conflict
