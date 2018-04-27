@@ -3,3 +3,5 @@ hello world
 hello hello has conflict
 
 world world world has conflict
+
+has conflict
