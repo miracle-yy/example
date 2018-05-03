@@ -9,3 +9,9 @@ hello
 hello
 
 branch merge no conflict
+
+stash demo
+
+hello
+
+hello
