@@ -15,3 +15,5 @@ stash demo
 hello
 
 hello
+
+conflict demo
